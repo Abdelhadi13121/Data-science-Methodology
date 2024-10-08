@@ -1,0 +1,22 @@
+DAY,MONTH,PRODUCER,OLIVE_OIL_TYPE,SHIFT,ACIDITY_LEVEL,OLIVE_VARIETY,QUALITY_SCORE
+1,4,Leonard,Extra Virgin,Morning,,,
+1,4,Carlson,Cold-Pressed Premium,Evening,0.27,Arbequina,879
+2,4,Leonard,Extra Virgin,Morning,0.28,Koroneiki,938
+2,4,Carlson,Extra Virgin,Evening,0.32,Koroneiki,900
+3,4,Leonard,Extra Virgin,Morning,0.32,Picual,917
+3,4,Carlson,Extra Virgin,Evening,0.28,Koroneiki,900
+4,4,Leonard,Extra Virgin,Morning,0.29,Koroneiki,934
+4,4,Gumble,Cold-Pressed Premium,Evening,0.29,Picual,951
+5,4,Leonard,Extra Virgin,Morning,0.33,Picual,852
+5,4,Carlson,Extra Virgin,Evening,0.27,Koroneiki,850
+,,,,,,,
+6,4,Carlson,Extra Virgin,Morning,0.3,Koroneiki,991
+6,4,Leonard,Cold-Pressed Premium,Evening,0.31,Koroneiki,950
+7,4,Carlson,Extra Virgin,Morning,0.26,Arbequina,863
+7,4,Leonard,Cold-Pressed Premium,Evening,0.31,Arbequina,936
+8,4,Gumble,Cold-Pressed Premium,Morning,0.3,Arbequina,996
+8,4,Leonard,Cold-Pressed Premium,Evening,0.3,Picual,978
+9,4,Carlson,Cold-Pressed Premium,Morning,0.3,Koroneiki,989
+9,4,Leonard,Cold-Pressed Premium,Evening,0.3,Koroneiki,999
+10,4,Carlson,Extra Virgin,Morning,0.35,Arbequina,831
+10,4,Leonard,Extra Virgin,Evening,0.26,Picual,822
