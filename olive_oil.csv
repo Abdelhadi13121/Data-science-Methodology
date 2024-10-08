@@ -1,5 +1,5 @@
 DAY,MONTH,PRODUCER,OLIVE_OIL_TYPE,SHIFT,ACIDITY_LEVEL,OLIVE_VARIETY,QUALITY_SCORE
-1,4,Leonard,Extra Virgin,Morning,,,
+1,4,Leonard,Extra Virgin,Morning,0.27,Koroneiki,895
 1,4,Carlson,Cold-Pressed Premium,Evening,0.27,Arbequina,879
 2,4,Leonard,Extra Virgin,Morning,0.28,Koroneiki,938
 2,4,Carlson,Extra Virgin,Evening,0.32,Koroneiki,900
