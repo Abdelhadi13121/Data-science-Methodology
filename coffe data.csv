@@ -1,0 +1,41 @@
+NAME,ROASTERY,LOCATION,TYPE,REGION,COORDINATES,WIKIPEDIA,RATING,REVIEWS,CRITIQUES,ACIDITY,BODY,PRICE
+Blue Mountain Estate,Kingston Roasters,Jamaica,Single Origin,Blue Mountains,"18.041741, -76.373703",https://en.wikipedia.org/wiki/Jamaican_Blue_Mountain_Coffee,2,9,90,-1,-3,32
+Geisha Reserve,Hacienda La Esmeralda,Panama,Single Origin,Boquete,"8.813588, -82.495479",https://en.wikipedia.org/wiki/Hacienda_La_Esmeralda,4,9,91,5,-5,46
+Yirgacheffe Supreme,Yirgacheffe Cooperative,Ethiopia,Single Origin,Sidamo,"6.1728, 38.3569",https://en.wikipedia.org/wiki/Yirgacheffe,4,6,91,-2,4,25
+Arabian Mocha Blend,Al-Mukha Trading,Yemen,Blend,Sanani,"15.3694, 44.191",https://en.wikipedia.org/wiki/Mocha_coffee,2,8,81,0,2,23
+Sumatra Mandheling,Mandheling Estate,Indonesia,Single Origin,North Sumatra,"-0.5897, 101.3431",https://en.wikipedia.org/wiki/Sumatra_coffee,3,8,88,3,1,35
+Kona Heritage,Kona Coffee Estate,Hawaii,Single Origin,Big Island,"19.6397, -155.9965",https://en.wikipedia.org/wiki/Kona_coffee,4,10,95,3,0,270
+Colombian Reserve,Bucaramanga Cooperative,Colombia,Single Origin,Santander,"7.1254, -73.1198",https://en.wikipedia.org/wiki/Colombian_coffee,3,8,90,-4,1,75
+Brazilian Santos,Santos Trading Co.,Brazil,Blend,São Paulo,"-23.9618, -46.3322",https://en.wikipedia.org/wiki/Brazilian_coffee,3,8,89,0,0,36
+Kenya AA Select,Nyeri Estates,Kenya,Single Origin,Central Region,"-0.4246, 36.9474",https://en.wikipedia.org/wiki/Coffee_production_in_Kenya,3,8,91,4,-4,45
+Vietnamese G7,Trung Nguyen,Vietnam,Blend,Central Highlands,"12.2388, 107.9603",https://en.wikipedia.org/wiki/Vietnamese_coffee,2,7,89,3,3,19
+Costa Rican Tarrazu,Tarrazu Valley,Costa Rica,Single Origin,Tarrazu,"9.7026, -84.0238",https://en.wikipedia.org/wiki/Coffee_production_in_Costa_Rica,2,6,85,3,3,29
+Guatemala Antigua,Antigua Farms,Guatemala,Single Origin,Antigua Valley,"14.5583, -90.7295",https://en.wikipedia.org/wiki/Guatemalan_coffee,3,8,87,2,0,43
+Indian Malabar,Malabar Trading Co.,India,Blend,Kerala,"11.2588, 75.7804",https://en.wikipedia.org/wiki/Indian_coffee,3,7,87,-1,-2,34
+Mexican Altura,Chiapas Cooperative,Mexico,Single Origin,Chiapas,"16.7569, -92.6376",https://en.wikipedia.org/wiki/Mexican_coffee,2,8,89,0,1,39
+Rwanda Bourbon,Musasa Cooperative,Rwanda,Single Origin,Northern Province,"-1.4826, 29.8287",https://en.wikipedia.org/wiki/Coffee_production_in_Rwanda,3,6,87,-3,3,72
+Mount Kenya Estate,Mount Kenya Estates,Kenya,Single Origin,Central Kenya,"-0.1522, 37.3084",https://en.wikipedia.org/wiki/Coffee_production_in_Kenya,3,9,73,-1,3,28
+Tanzania Peaberry,Kilimanjaro Farms,Tanzania,Single Origin,Kilimanjaro,"-3.0674, 37.3556",https://en.wikipedia.org/wiki/Coffee_production_in_Tanzania,4,8,93,0,1,40
+El Salvador Pacamara,Santa Ana Estates,El Salvador,Single Origin,Santa Ana,"13.9946, -89.5598",https://en.wikipedia.org/wiki/Coffee_production_in_El_Salvador,3,7,89,-2,4,36
+Uganda Bugisu,Bugisu Cooperative,Uganda,Single Origin,Mount Elgon,"1.1027, 34.5454",https://en.wikipedia.org/wiki/Coffee_production_in_Uganda,2,9,87,-1,1,40
+Ethiopian Harrar,Harrar Farms,Ethiopia,Single Origin,Harrar,"9.3113, 42.119",https://en.wikipedia.org/wiki/Coffee_production_in_Ethiopia,4,7,89,-2,0,37
+Papua New Guinea,Eastern Highlands Co.,Papua New Guinea,Single Origin,Eastern Highlands,"-6.0894, 145.3886",https://en.wikipedia.org/wiki/Coffee_production_in_Papua_New_Guinea,3,7,89,-5,-5,50
+Kyoto Cold Brew,Kyoto Coffee Works,Japan,Blend,Kyoto,"35.0116, 135.7681",https://en.wikipedia.org/wiki/Cold_brew_coffee,3,9,89,-2,1,70
+Tokyo Roast Premium,UCC Coffee,Japan,Blend,Tokyo,"35.6762, 139.6503",https://en.wikipedia.org/wiki/Coffee_in_Japan,4,9,90,-1,1,680
+Yemen Mocha Sanani,Al-Hammadi Estate,Yemen,Single Origin,Sana'a,"15.3694, 44.191",https://en.wikipedia.org/wiki/Yemeni_coffee,5,8,91,3,1,32
+Peru Organic,Valle Sagrado,Peru,Blend,Cusco,"-13.5319, -71.9675",https://en.wikipedia.org/wiki/Coffee_production_in_Peru,1,6,84,-2,0,19
+Ecuador Galápagos,Isla Santa Cruz Farm,Ecuador,Single Origin,Galápagos,"-0.7453, -90.3367",https://en.wikipedia.org/wiki/Coffee_production_in_Ecuador,3,7,87,-1,1,24
+Indonesian Toraja,Toraja Heritage,Indonesia,Single Origin,South Sulawesi,"-3.0417, 119.9207",http://www.torajacoffee.com,5,9,92,4,4,50
+Taiwanese High Mountain,Alishan Estates,Taiwan,Single Origin,Alishan,"23.5108, 120.8033",https://en.wikipedia.org/wiki/Coffee_production_in_Taiwan,4,8,90,0,2,53
+Myanmar Premium,Shan State Collective,Myanmar,Blend,Shan State,"21.9588, 96.9916",https://en.wikipedia.org/wiki/Coffee_production_in_Myanmar,3,9,89,-1,3,79
+Timor-Leste Organic,Ermera Cooperative,Timor-Leste,Single Origin,Ermera,"-8.7533, 125.3964",https://en.wikipedia.org/wiki/Coffee_production_in_East_Timor,5,8,89,5,5,77
+Laos Bolaven,Bolaven Farms,Laos,Single Origin,Bolaven Plateau,"15.2755, 106.3802",https://en.wikipedia.org/wiki/Coffee_production_in_Laos,4,8,91,4,-4,39
+Malawi Pamwamba,Pamwamba Estate,Malawi,Blend,Thyolo,"-16.067, 35.1209",https://en.wikipedia.org/wiki/Coffee_production_in_Malawi,3,9,94,-1,1,290
+Zambia AA,Northern Coffee Corp.,Zambia,Single Origin,Northern Province,"-10.9162, 31.1777",https://en.wikipedia.org/wiki/Coffee_production_in_Zambia,4,8,89,1,5,91
+Burundi Bourbon,Kayanza Washing Station,Burundi,Single Origin,Kayanza,"-2.9226, 29.6259",https://en.wikipedia.org/wiki/Coffee_production_in_Burundi,3,8,82,-5,-4,110
+Congo Kivu,Kivu Trading Co.,DR Congo,Blend,South Kivu,"-2.5149, 28.8637",https://en.wikipedia.org/wiki/Coffee_production_in_the_Democratic_Republic_of_the_Congo,3,9,90,-2,2,133
+Nepal Mount Everest,Himalayan Heights,Nepal,Single Origin,Solukhumbu,"27.9881, 86.925",https://en.wikipedia.org/wiki/Coffee_production_in_Nepal,3,8,91,4,3,44
+China Yunnan,Yunnan Coffee Traders,China,Single Origin,Yunnan,"24.4753, 101.3431",https://en.wikipedia.org/wiki/Coffee_production_in_China,3,7,90,-3,4,32
+Thailand Royal Project,Doi Chang Estate,Thailand,Blend,Chiang Rai,"19.8297, 99.8546",https://en.wikipedia.org/wiki/Coffee_production_in_Thailand,3,7,84,0,1,25
+Philippines Barako,Batangas Farms,Philippines,Single Origin,Batangas,"13.7565, 121.0583",https://en.wikipedia.org/wiki/Coffee_production_in_the_Philippines,2,6,81,-1,4,63
+Cambodia Premium,Mondulkiri Estate,Cambodia,Double Origin,Mondulkiri,"12.4568, 107.1897",https://en.wikipedia.org/wiki/Coffee_production_in_Cambodia,2,9,90,-1,-3,67
